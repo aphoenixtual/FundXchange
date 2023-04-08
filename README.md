@@ -41,4 +41,4 @@ alt="Spring Boot Microservices Project Architecture By Javatodev.com"/></a>
 <h1 align="center">Hi 👋, I'm Aayush Patel</h1>
 <h3 align="center">A Passionate Java Fullstack Developer </h3>
 
-<p align="left"> <a href="https://twitter.com/ayushp10" target="blank"><img src="https://img.shields.io/twitter/follow/spbootdeveloper?logo=twitter&style=for-the-badge" alt="spbootdeveloper" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayushp10" target="blank"><img src="https://img.shields.io/twitter/follow/ayushp10?logo=twitter&style=for-the-badge" alt="ayushp10" /></a> </p>
