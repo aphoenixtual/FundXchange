@@ -1,4 +1,4 @@
-# CitiBank With Java Spring Boot Microservices
+# FundXchange With Java Spring Boot Microservices
 
 ### Microservices Inside This Project
 
